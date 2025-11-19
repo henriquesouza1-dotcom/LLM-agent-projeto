@@ -1,0 +1,12 @@
+
+(
+"""
+    Inteligência artificial é um campo da ciência da computação que busca criar máquinas capazes
+    de executar tarefas que normalmente exigem inteligência humana.
+
+    LLMs (Large Language Models) são modelos de linguagem treinados em grandes quantidades de texto.
+    Eles podem responder perguntas, gerar texto, auxiliar em análises e muito mais.
+
+    Agentes LLM combinam modelos de linguagem com ferramentas externas, como cálculos, buscas
+    e ações específicas.
+    """)
